@@ -80,3 +80,7 @@ The script gives Claude a `search_the_web` tool backed by Tavily. Claude decides
 ## Keep your keys private
 
 Never paste API keys into code, commit them, or share them. The script reads them from environment variables only, and `.gitignore` excludes `.env` files.
+
+## License
+
+[MIT](LICENSE)
